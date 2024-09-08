@@ -1,0 +1,16 @@
+{
+  "message": "Merhaba! Bu bir JSON formatında örnek mesajdır.",
+  "status": "success",
+  "data": {
+    "user": {
+      "id": 12345,
+      "name": "Ali Veli",
+      "email": "ali.veli@example.com"
+    },
+    "timestamp": "2024-09-08T12:34:56Z",
+    "details": {
+      "action": "fetch",
+      "result": "data retrieved successfully"
+    }
+  }
+}
